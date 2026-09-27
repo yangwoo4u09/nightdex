@@ -8,3 +8,7 @@ captures/
 .externalNativeBuild/
 .cxx/
 .kotlin/
+keystore/
+keystore.properties
+*.jks
+*.keystore
