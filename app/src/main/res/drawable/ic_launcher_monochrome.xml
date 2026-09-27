@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Bezel drawn as a ring: outer rect and inner rect in one evenOdd path. -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="M35,34h38a5,5 0 0 1 5,5v20a5,5 0 0 1 -5,5h-38a5,5 0 0 1 -5,-5v-20a5,5 0 0 1 5,-5zM36.5,38a2.5,2.5 0 0 0 -2.5,2.5v17a2.5,2.5 0 0 0 2.5,2.5h35a2.5,2.5 0 0 0 2.5,-2.5v-17a2.5,2.5 0 0 0 -2.5,-2.5z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M57,41a8,8 0 1 0 0,16a13,13 0 0 1 0,-16z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,60h8l1.5,11h-11z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,71h24a2,2 0 0 1 0,4h-24a2,2 0 0 1 0,-4z" />
+</vector>

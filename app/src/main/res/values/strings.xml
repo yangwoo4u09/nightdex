@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NightDeX</string>
+    <string name="tile_label">DeX 밝기</string>
+    <string name="a11y_service_label">NightDeX 딥 디밍</string>
+    <string name="a11y_service_summary">0.8 불투명도 제한을 넘어 더 어둡게 조절합니다.</string>
+    <string name="a11y_service_description">이 서비스는 화면 내용을 읽지 않습니다. Android 12부터 일반 오버레이는 불투명도 0.8을 넘으면 터치가 차단되므로, 그보다 더 어둡게 조절하려면 접근성 오버레이가 필요합니다.</string>
+    <string name="notif_channel_name">밝기 오버레이</string>
+    <string name="notif_channel_desc">외부 디스플레이 밝기 오버레이가 동작 중임을 알립니다.</string>
+</resources>
